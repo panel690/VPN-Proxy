@@ -12,7 +12,7 @@ VPN Gate(https://www.vpngate.net/ja/) 筑波大学による公開 VPN 中継サ�
 OpenVPN
 https://ip8.com/vpngate IP8はVPNGate接続支援やプライバシーチェック機能を提供している。
 プロキシ
-https://www.v2ray.com/en/ https://xtls.github.io/en/興味あるのかたを見てください
+https://www.v2ray.com/en/ https://xtls.github.io/en/  興味あるのかたを見てください
 1. Shadowsocks
 2. VMess
 3. VLESS
